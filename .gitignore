@@ -16,7 +16,8 @@
 
 /logs/*
 !/logs/empty
-
+.env
+/mmh
 # CakePHP 2
 
 /app/tmp/*
